@@ -1,2 +1,2 @@
-# Lili-Collins
+# Lili Collins
 my first repository
